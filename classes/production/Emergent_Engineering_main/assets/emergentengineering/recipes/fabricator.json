@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":[
+    "ISI",
+    "SVS",
+    "ISI"
+  ],
+  "key": {
+    "S": { "type": "forge:ore_dict",
+    "ore": "ingotSteel"},
+    "I": { "item": "minecraft:iron_ingot"},
+    "V": { "item": "emergentengineering:vacuum_tube"}
+  },
+  "result": {
+    "item": "emergentengineering:fabricator",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "emergentengineering",
+  "name": "Emergent Engineering",
+  "description": "A mod with some new ideas for automation.",
+  "version": "ALPHA",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Misero"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
